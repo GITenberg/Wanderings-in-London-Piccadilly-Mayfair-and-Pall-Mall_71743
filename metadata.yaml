@@ -1,0 +1,33 @@
+_repo: Wanderings-in-London-Piccadilly-Mayfair-and-Pall-Mall_71743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chancellor, E. Beresford (Edwin Beresford)
+    alias: Chancellor, Edwin Beresford
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '56372'
+    url: http://www.gutenberg.org/2009/agents/56372
+    wikipedia: https://en.wikipedia.org/wiki/E._Beresford_Chancellor
+description: ''
+gutenberg_issued: '2023-09-27'
+identifiers:
+  gutenberg: '71743'
+language: en
+pgterms:marc905: 20220906091111chancellor
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Alan, Steve Mattern and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: '  $aNew York :$bJames Pott & Co., $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Piccadilly (London, England)'
+- !lcsh 'Mayfair (London, England)'
+- !lcsh 'Pall Mall (London, England)'
+- !lcc 'DA'
+- GITenberg
+title: Wanderings in London, Piccadilly, Mayfair, and Pall Mall
+url: http://www.gutenberg.org/ebooks/71743
